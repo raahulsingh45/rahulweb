@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+}
+h1,
+h2,
+ol,ul{
+    color: blueviolet;
+    background-color: white;
+    text-align: center;
+}
