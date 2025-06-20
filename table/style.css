@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+
+}
+table,
+th,
+td{
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 2px;
+    border: 2px dotted black;
+    align-items: center;
+    height: 30px;
+    width: 600px;
+    margin: 50px;
+    box-shadow: 2px 2px 5px gray;
+}
